@@ -1,4 +1,4 @@
-/* LOC: 201*/
+/* Starting LOC: 201, Ending LOC: */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -84,17 +84,17 @@ aside {
     background-color: #2589bd;
 }
 
-.benefit-lead, .benefit-brand, .benefit-cost {
+.benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-cost h3, benefit-brand h3, .benefit-cost h3 {
+.benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-lead img, .benefit-brand img, .benefit-cost img {
+.benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
